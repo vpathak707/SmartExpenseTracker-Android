@@ -1,2 +1,16 @@
-# SmartExpenseTracker-Android
-Smart Expense Tracker is a native Android application developed using Kotlin that helps users track daily expenses, categorize spending, and analyze financial habits.
+Smart Expense Tracker – Android
+
+Features
+- Expense tracking logic
+- MVVM-based structure
+- REST API interface
+- Offline storage design (Room)
+- Clean Android project organization
+
+Tech Stack
+- Kotlin
+- Android SDK
+- MVVM Architecture
+- Room (planned)
+- Retrofit (planned)
+
